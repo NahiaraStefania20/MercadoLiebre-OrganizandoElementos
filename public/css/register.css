@@ -1,0 +1,36 @@
+main {
+    width: 100%;
+}
+
+.main_registro {
+    text-align: left;
+}
+
+.register_checkbox {
+    text-align: center;
+
+}
+
+.register_checkbox p {
+    margin: 10px 0px;
+}
+
+.fechaNacimiento, .crea_tu_cuenta p {
+    font-style: bold;
+}
+
+.contenedor_formulario input {
+    border-radius: 5px;
+}
+
+.main_botonRegister button {
+    padding: 10px 30px;
+    background-color: #1259c3;
+    border: 1px solid #1259c3;
+    color: white;
+    border-radius: 15px;
+}
+
+.main_botonRegister button:hover {
+    background-color: #0022AA;
+}
